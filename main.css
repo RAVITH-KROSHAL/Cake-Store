@@ -1,0 +1,56 @@
+
+
+
+#p1{
+  border-radius: 50%;
+  
+}
+
+#a1 {
+  
+  padding-top: 50px;
+
+}
+
+
+#c1{
+ 
+  padding: 0px;
+}
+
+#d1, #x1,#x2,#x3,#x4,#x5,#x6,#x7,#x8{
+  display: none;
+  margin-top: -200px;
+  margin-bottom: -100px;
+  padding: 200px;
+  float: left;
+}
+
+#e1{
+  float: left;
+  padding-left: 600px;
+  margin-top: -400px;
+  
+}
+
+#f1{
+ 
+  margin: 70px;
+}
+
+#g1{
+padding: 50px;
+
+
+
+}
+
+#i1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#image {
+  display: none;
+}
